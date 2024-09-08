@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    <string name="txtSign">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="fullName">Fullname</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="douhave">Do you have an account?</string>
+    <string name="login">Login</string>
+</resources>
